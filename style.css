@@ -56,6 +56,11 @@ div {
   position: relative;
 }
 
+footer h5 {
+  text-align: left;
+  padding-left: 20px;
+}
+
 h2 {
   font-size: larger;
 }
